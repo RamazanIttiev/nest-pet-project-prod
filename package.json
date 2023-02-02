@@ -80,7 +80,7 @@
     "testEnvironment": "node"
   },
   "engines": {
-    "npm": "16.14.2",
-    "node": "8.7.0"
+    "npm": "8.7.0",
+    "node": "16.14.2"
   }
 }
