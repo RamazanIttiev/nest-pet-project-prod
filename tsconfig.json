@@ -25,7 +25,7 @@
     "noEmit": false,
     "lib": ["es2017", "dom"],
     "paths": {},
-    "baseUrl": "./server",
+    "baseUrl": ".",
     "outDir": "./dist",
     "composite": true,
     "resolveJsonModule": true
